@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="qt">Question</string>
+    <string name="atrue">True</string>
+    <string name="afalse">False</string>
+    <string name="ictoast">Incorrect</string>
+    <string name="ctoast">Correct</string>
+    <string name="next">Next</string>
+    <string name="q_australia">aus true</string>
+    <string name="q_oceans">oceans true</string>
+    <string name="q_mideast">mideast false</string>
+    <string name="q_africa">africa false</string>
+    <string name="q_americas">amer true</string>
+    <string name="q_asia">asia true</string>
+    <string name="prev">Prev</string>
+    <string name="warning">R U Sure?</string>
+    <string name="show_ans_button">Show Answer</string>
+    <string name="cheat_b">Cheat!</string>
+    <string name="cheater">Cheater!!!</string>
+
+</resources>
