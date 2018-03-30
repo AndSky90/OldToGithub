@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Starbuzz.iml" filepath="$PROJECT_DIR$/Starbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\dogriffiths-HeadFirstAndroid2ndEdition-c677deb\dogriffiths-HeadFirstAndroid2ndEdition-c677deb\chapter07\Starbuzz\app\app.iml" filepath="C:\dogriffiths-HeadFirstAndroid2ndEdition-c677deb\dogriffiths-HeadFirstAndroid2ndEdition-c677deb\chapter07\Starbuzz\app\app.iml" />
+    </modules>
+  </component>
+</project>
